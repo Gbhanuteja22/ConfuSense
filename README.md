@@ -105,5 +105,3 @@ confusense/
 ├── webpack.config.js     # Webpack configuration
 └── package.json          # Project dependencies
 ```
-
-# ConfuSense
