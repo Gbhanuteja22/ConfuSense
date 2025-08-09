@@ -28,7 +28,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Gbhanuteja22/Myche-lab.git
+   git clone https://github.com/Gbhanuteja22/ConfuSense.git
    cd confusense
    ```
 
