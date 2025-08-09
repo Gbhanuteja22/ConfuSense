@@ -2,10 +2,6 @@
 
 **An AI-powered study companion that uses facial recognition to detect when you're confused and automatically provides simplified explanations.**
 
-![React](https://img.shields.io/badge/React-18.0.0-blue.svg)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.22.0-orange.svg)
-![Electron](https://img.shields.io/badge/Electron-29.0.0-lightgrey.svg)
-
 ## ✨ Features
 
 - **🔍 Real-time Confusion Detection**: Advanced facial landmark analysis using MediaPipe Face Mesh
@@ -60,8 +56,6 @@ Open [http://localhost:3000](http://localhost:3000) in Chrome or Firefox for bes
 # Terminal 1: Start React dev server
 npm run start
 
-# Terminal 2: Launch Electron app
-npm run electron
 ```
 
 ## 📊 How It Works
@@ -93,7 +87,6 @@ npm run package
 
 - **Frontend**: React 18 + ReactQuill
 - **AI Detection**: TensorFlow.js + MediaPipe Face Mesh
-- **Desktop**: Electron 29
 - **Build**: Webpack 5 + Babel
 - **APIs**: OpenAI GPT-3.5 / Google Gemini Pro
 
